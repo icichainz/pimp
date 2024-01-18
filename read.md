@@ -2,3 +2,4 @@ a tools that allow me to install and remove python deps and updating the pip req
 I will be build with go :
 it will save in memory all the command that , i have run and the time stamp.
 # TODO : To enhance the gradualy.
+#TODO: Install gum
